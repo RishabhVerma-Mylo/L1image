@@ -1,0 +1,6 @@
+node_modules
+.env
+JsonFiles
+L1Images
+objectData.*
+resultJson
